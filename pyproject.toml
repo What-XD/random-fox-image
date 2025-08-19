@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "random-fox-image"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple library to get random fox images 🦊"
 authors = [{name = "What-XD", email = "101012824+What-XD@users.noreply.github.com"}]
 license = {text = "MIT"}
